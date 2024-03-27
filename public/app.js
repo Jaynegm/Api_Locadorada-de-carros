@@ -12,6 +12,7 @@ fetch('http://localhost:8080/locadora')
                 <p><strong>Categoria:</strong> ${carro.categoria}</p>
                 <p><strong>Descrição:</strong> ${carro.descricao}</p>
                 <p><strong>Valor:</strong> ${carro.valor}</p>
+                <p class="contato"><strong>Contato:</strong> ${carro.contato}</p>
             `;
             // Adiciona o card à lista de carros
             carrosList.appendChild(carroDiv);

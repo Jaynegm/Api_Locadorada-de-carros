@@ -4,24 +4,108 @@
         "nome": "Volkswagen Gol ",
         "foto": "https://s2-autoesporte.glbimg.com/8A36-_Cv_5T0XV2uRNSDAteWkR0=/0x0:1400x912/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/R/M/K7kos5QGafxzSGEkFP7Q/dsc06181.jpg",
         "categoria": "Grupo C - Econômico com ar ",
-        "descricao": "1.0, 12V, MPI, Totalflex, 4P, Manual",
-        "valor": "A partir de R$ 148,05/dia"
+        "descricao": "1.0, 12V, MPI, Totalflex, 4P, Manual.",
+        "valor": "A partir de R$ 148,05/dia",
+        "contato": "(11) 00000-0000"
     },
     {
         "id": "2",
         "nome": "Fiat Argo ",
         "foto": "https://argo.fiat.com.br/content/dam/fiat/products/358/ace/1/2024/page/hero.webp",
         "categoria": "Grupo CE - Econômico especial c/ar ",
-        "descricao": "4P, Vidro elétrico, Air bag, ABS, Ar-condicionado, Trava Elétrica, Dir. Hidráulica, 2 mala(s) grande(s), 5 pessoas",
-        "valor": "A partir de R$263,54/dia"
+        "descricao": "4P, Vidro elétrico, Air bag, ABS, Ar-condicionado, Trava Elétrica, Dir. Hidráulica, 2 mala(s) grande(s), 5 pessoas.",
+        "valor": "A partir de R$263,54/dia",
+        "contato": "(11) 00000-0000"
     },
     {
         "id": "3",
         "nome": "Peugeot 208 ",
         "foto": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2021/07/06194209/peugeot_208_582-scaled.jpeg",
         "categoria": "Grupo FH - Intermediário Hatch Automático",
-        "descricao": "4P, Ar-condicionado, Vidro elétrico, Automático, 2 mala(s) grande(s), 2 mala(s) pequena(s), 5 pessoas",
-        "valor": "A partir de R$ 327,84/dia"  
+        "descricao": "4P, Ar-condicionado, Vidro elétrico, Automático, 2 mala(s) grande(s), 2 mala(s) pequena(s), 5 pessoas.",
+        "valor": "A partir de R$ 327,84/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "4",
+        "nome": "Renault Zoe e-tech Elétrico",
+        "foto": "https://revistacarro.com.br/?attachment_id=53663",
+        "categoria": "Grupo BE - Compacto Elétrico",
+        "descricao": "Carro ano 2018 quatro portas com Câmbio Automático e freios ABS.",
+        "valor": "A partir de R$ 699,99/dia",
+        "contato": "(11) 00000-0000"
+    },
+    {
+        "id": "5",
+        "nome": "Hyundai HB20S 1.0",
+        "foto": "https://s2-autoesporte.glbimg.com/hEtk2jtgM4yHLS3zEDZBkJe-2CU=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/h/e/7TBAf1SY2u4rmrvTzOdA/2016-05-11-hb20s-turbo-comfort-style-externas-097.jpg",
+        "categoria": "Grupo CS - Econômico sedan com ar",
+        "descricao": "Carro com ar-condicionado, 4 portas e vidros elétricos. Air bag para a segurança e direção hidráulica.",
+        "valor": "A partir de R$ 699,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "6",
+        "nome": "Renault Duster 1.6",
+        "foto": "https://s2-autoesporte.glbimg.com/rdB2uvGmUDoTGtl6FpRTjO9zyuk=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/8/b/wLkcXuSmuPZB6BhREqQA/2018-02-05-renault-duster-cvt-2.jpg",
+        "categoria": "Grupo G - SUV",
+        "descricao": "Para uma viagem com mais conforto as opções SUV então a disposição, com porta malas cabendo 3 malas grandes e 2 pequenas esse SUV com ar-condicionado vai ser perfeito para sua viagem.",
+        "valor": "A partir de R$ 599,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "7",
+        "nome": "Fiat Cronos 1.8 Adaptado",
+        "foto": "https://image1.mobiauto.com.br/images/api/images/v1.0/1477538/transform/fl_progressive,f_webp,q_95",
+        "categoria": "Grupo FA - Adaptado Pessoa com Deficiência",
+        "descricao": "Carro com acelerador e freio manual, Pomo giratório removível, inversor de pedal e acelerador.",
+        "valor": "A partir de R$ 499,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "8",
+        "nome": "Jeep Compass 2.0 4x4 Turbo",
+        "foto": "https://production.autoforce.com/uploads/picture/image/29283018/main_webp_comprar-compass-2020_488d41b3a1.jpg.webp",
+        "categoria": "Grupo LD - Especial a Diesel",
+        "descricao": "Carro a diesel com freios ABS, tração 4x4, automático com Ar-condicionado.",
+        "valor": "A partir de R$ 999,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "9",
+        "nome": "Audi A4 Turbo",
+        "foto": "https://img-us-2.trovit.com/img2br/k121z1N1G1HvO/k121z1N1G1HvO.1_11.jpg",
+        "categoria": "Grupo T - Executivo Blindado",
+        "descricao": "Carro automático com direção hidraulica, blindado com ar-condicionado.",
+        "valor": "A partir de R$ 1199,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "10",
+        "nome": "Fiat Doblo 1.8",
+        "foto": "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/57bddca50e21637197048c1ddoblo-adventure.jpeg?quality=70&strip=all&strip=all",
+        "categoria": "Grupo R - Minivan 7 Lugares",
+        "descricao": "Carro com 7 lugares, 3 portas com trava elétrica, Ar-condionado e freios ABS.",
+        "valor": "A partir de R$ 799,99/dia",
+        "contato": "(11) 00000-0000"  
+    },
+    {
+        "id": "11",
+        "nome": "Fiat Toro 1.3 Turbo",
+        "foto": "https://revistacarro.com.br/wp-content/uploads/2021/06/Fiat-Toro-2022-Volcano-T270_2.jpg",
+        "categoria": "Grupo NX - Pick-Up de luxo",
+        "descricao": "Carro com capacidade para 5 pessoas, PICK-UP suportando um peso de 650kg. Ar-condicionado. Carro automático.",
+        "valor": "A partir de R$ 1499,99/dia",
+        "contato": "(11) 00000-0000" 
+    },
+    {
+        "id": "12",
+        "nome": "Renault Master Minibus 2.5",
+        "foto": "https://img0.icarros.com/dbimg/imgmodelo/4/739_4.jpg",
+        "categoria": "Grupo J - VAN",
+        "descricao": "Carro com capacidade para 16 pessoas, direção hidráulica com ar-condicionado. Carro a diesel.",
+        "valor": "A partir de R$ 799,99/dia",
+        "contato": "(11) 00000-0000"  
     }
     
   ]
